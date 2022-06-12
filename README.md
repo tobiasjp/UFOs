@@ -24,7 +24,7 @@ Users will log onto the UFO Finder and select 1 or more out of 5 search criteria
 
 Based on the criteria the user wants to search by, they will enter this into the appropriate search field on the left side of the page and press enter.  The table seen in the middle of the page will filter the data based on search criteria and return a table that only lists data that matches the user's entry.
 
-![ufodata](images/ufofinder.png)
+![ufodata](Images/ufofinder.png)
 
 ## Summary
 
