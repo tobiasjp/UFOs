@@ -37,7 +37,7 @@ Our user is from El Cajon and is curious as to how many sightings have been seen
 ![ufodata](Images/ufofinderelcajon.png)
 
 ### Example 3:
-Our user remembers seeing some strange aircraft one night in 2010 and is curious if others may have reported this strange sighting.  Our user doesn't remember much, but remembers the shape of the aircraft, it was a triangle!  Our user further filters the search and types in 'triangle' into the 'Enter Shape' field. The UFO Finder will return a table that only includes results that are in the city of El Cajon, in the state of California, that has a shape of triangle.  Our user remembers the sighting occurred in the summer, thus the results did not match the sighting.  However, our user can use the same technique in the future, in case some does remember that particular sighting.  Maybe our user can even submit the sighting to be included.
+Our user remembers seeing some strange aircraft one night in 2010 and is curious if others may have reported this strange sighting.  Our user doesn't remember much, but remembers the shape of the aircraft, it was a triangle!  Our user further filters the search and types in 'triangle' into the 'Enter Shape' field. The UFO Finder will return a table that only includes results that are in the city of El Cajon, in the state of California, that have a shape of triangle.  Our user remembers the sighting occurred in the summer, thus the results did not match the sighting.  However, our user can use the same technique in the future, in case some does remember that particular sighting.  Maybe our user can even submit the sighting to be included.
 
 ![ufodata](Images/ufofindertriangle.png)
 
